@@ -34,6 +34,9 @@ class HW6:
           self.b2 = Button(self.rWin, width=20, text="Select File").grid(row=1, column=2, pady=1, padx=1)
           ## Generate Number Search --> calls method generate()
           self.b3 = Button(self.rWin, width=30, text="Generate Number Search").grid(row=2, column=0, pady=1, padx=1)
+          
+     def new():
+          print(hello)
 
 
           
